@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.1.3
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: yYLixHwNo+Ed7qcLpCTAUsNP9B4=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: sEn/VLWI6f3QwbxUEN/1ttsxjNI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pavPHrEiXcS6vVgEYejcowdsLgg=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: UBS26D9ppmDWLIWQm+hyuIeXee8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: I3okEjGpgwVN/PZ6K1SlEASf+hU=
+
+Name: res/drawable/ic_launcher_background.xml
+SHA1-Digest: evlcjYJqrUWwUlHUCKhlDaK4a/k=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: VRKi4dLDSJTmHcIcD5TKaGqmKyc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 4C++cbHNlwQsdRb2AJcODvsA45c=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: 8UPr/TvYSMZPz2UJjVrCvDcOKmQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: y8qZodvD76V/uX/af8HyLFLezN8=
+
+Name: res/drawable-v24/$ic_launcher_foreground__0.xml
+SHA1-Digest: 9bamJbv8PvaorvPFMhvlDiFIX8E=
+
+Name: resources.arsc
+SHA1-Digest: 41Sf/RESmoPJ/WUoWHkN7AvkdkE=
+
+Name: classes.dex
+SHA1-Digest: ZfM1+NxLrw5Aa2GPLDq98Ma5mx4=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: wHinfeAmPRM4OPO1ej8CVmTqeIc=
+
+Name: res/drawable-v24/ic_launcher_foreground.xml
+SHA1-Digest: WZMUZ1Qhs7tH8maKCgDsbpRKUKw=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: IOVacaV0L9xCNrXvxC6pnO2BDYU=
+
